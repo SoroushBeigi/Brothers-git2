@@ -26,3 +26,4 @@ A list of participants in CSC 195
 * Soroush Beigi
 * Mohammad Ali
 * Diyako Hajjari
+* Hadi Tavakoli
