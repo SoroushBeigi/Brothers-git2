@@ -37,8 +37,8 @@ main (int argc, char *argv[])
   printf ("%02d: Mohammad Ali\n", ++i);
   printf ("%02d: Diyako Hajjari\n", ++i);
   printf ("%02d: Hadi Tavakoli\n", ++i);
-  
   printf ("%02d: rouhollah\n", ++i);
+  printf ("%02d: Soroush Beigi\n", ++i);
   printf ("There are %i participants.\n", i);
 
   return 0;
