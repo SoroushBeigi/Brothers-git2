@@ -24,4 +24,5 @@ A list of participants in CSC 195
 * Yazan A. Kittaneh
 * amin shenabi
 * Soroush Beigi
+* Mohammad Ali
 
